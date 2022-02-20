@@ -6,3 +6,5 @@ If you own at least 0.01 ETH at any of the blocks above, your address should be 
 
 There are no premine (except for 1 token that will be needed to do housekeeping tasks during launch).
 There are 7,426,219 Ethereum accounts that will qualify although we dont' expect all these account will take part in the DAO.
+
+# No ICO, no premine, no BS. Just 100% community owned DAO.
