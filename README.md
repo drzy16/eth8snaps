@@ -8,3 +8,5 @@ There are no premine (except for 1 token that will be needed to do housekeeping 
 There are 7,426,219 Ethereum accounts that will qualify although we dont' expect all these account will take part in the DAO.
 
 # No ICO, no premine, no BS. Just 100% community owned DAO.
+
+https://t.me/regenesischat
